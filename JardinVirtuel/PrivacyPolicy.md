@@ -1,20 +1,20 @@
-# Politique de Confidentialité - Jardin Virtuel
+# Politique de Confidentialité - Faunaria
 
-*Dernière mise à jour : 31 mars 2025*
+*Dernière mise à jour : 1 avril 2025*
 
 ## Introduction
 
-Jardin Virtuel ("nous", "notre", "le bot") est un bot Discord conçu pour offrir une expérience de jardinage virtuel interactive. Cette Politique de Confidentialité explique comment nous collectons, utilisons, stockons et protégeons vos informations lorsque vous utilisez notre bot.
+Faunaria ("nous", "notre", "le bot") est un bot Discord conçu pour offrir une expérience de jardinage virtuel interactive. Cette Politique de Confidentialité explique comment nous collectons, utilisons, stockons et protégeons vos informations lorsque vous utilisez notre bot.
 
 ## Créateur du Bot
 
-Jardin Virtuel a été créé et est maintenu par Titimousse.
+Faunaria a été créé et est maintenu par Titimousse.
 
 ## Données Collectées
 
 ### Données Collectées Automatiquement
 
-Le bot Jardin Virtuel collecte et stocke les données suivantes :
+Le bot Faunaria collecte et stocke les données suivantes :
 
 - **Identifiants Discord** : Nous stockons les identifiants uniques (ID) des serveurs et des utilisateurs pour faire fonctionner les fonctionnalités du bot.
 - **Données de Jeu** : Informations relatives à vos plantes virtuelles, progression, badges obtenus et préférences de notifications.
@@ -70,7 +70,7 @@ Nous pouvons mettre à jour cette politique de temps à autre. Les modifications
 
 ## Conformité RGPD
 
-Le bot Jardin Virtuel est conçu pour respecter le Règlement Général sur la Protection des Données (RGPD) de l'Union Européenne. Nous nous engageons à protéger vos droits en matière de protection des données.
+Le bot Faunaria est conçu pour respecter le Règlement Général sur la Protection des Données (RGPD) de l'Union Européenne. Nous nous engageons à protéger vos droits en matière de protection des données.
 
 ## Contact
 
@@ -78,4 +78,4 @@ Pour toute question concernant cette politique de confidentialité ou vos donné
 
 ---
 
-En utilisant le bot Jardin Virtuel, vous acceptez cette politique de confidentialité.
+En utilisant le bot Faunaria, vous acceptez cette politique de confidentialité.
